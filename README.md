@@ -10,7 +10,7 @@ This project aims to analyze customer behavior using the UK E-Commerce Dataset, 
 Given the seasonal nature of the products offered, this analysis focuses particularly on the peak sales period from September to November 2011. The main goal of the analysis is to identify customer purchasing patterns, segment customers based on their purchasing characteristics, and provide insights that can help enhance customer retention strategies and improve the effectiveness of future marketing campaigns.
 ## Insight Deep-Dive
 ### Sales Trends and Growth Overview
-
+<img width="1500" height="600" alt="Image" src="https://github.com/user-attachments/assets/1c2ef8c9-3682-401a-85da-a7b2df2c6724" />
 
 * Revenue remained relatively stable from January to August 2011, averaging around £215,000 per month.
 * A significant surge occurred in September 2011, with revenue rising to £386,208, and continued to grow until peaking in November at £517,038.
