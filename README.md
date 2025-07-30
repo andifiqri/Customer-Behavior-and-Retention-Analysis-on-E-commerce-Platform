@@ -11,6 +11,7 @@ Given the seasonal nature of the products offered, this analysis focuses particu
 ## Insight Deep-Dive
 ### Sales Trends and Growth Overview
 <img width="1500" height="600" alt="Image" src="https://github.com/user-attachments/assets/1c2ef8c9-3682-401a-85da-a7b2df2c6724" />
+<img width="1500" height="600" alt="Image" src="https://github.com/user-attachments/assets/ebd553b0-7787-4d34-a26f-c9c4b8b1d65d" />
 
 * Revenue remained relatively stable from January to August 2011, averaging around £215,000 per month.
 * A significant surge occurred in September 2011, with revenue rising to £386,208, and continued to grow until peaking in November at £517,038.
