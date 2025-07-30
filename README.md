@@ -16,7 +16,9 @@ Given the seasonal nature of the products offered, this analysis focuses particu
 * Revenue remained relatively stable from January to August 2011, averaging around £215,000 per month.
 * A significant surge occurred in September 2011, with revenue rising to £386,208, and continued to grow until peaking in November at £517,038.
 * September recorded the highest monthly revenue growth throughout the year at 52.3%.
----------------------------------------------------------------------------------------
+
+<img width="1500" height="600" alt="Image" src="https://github.com/user-attachments/assets/df11eefb-f7a5-4e15-9705-d0faabc725be" />
+
 * Order volume followed a similar upward trend, starting in September and peaking in November (2,359 orders), likely driven by holiday demand.
 * The steep drop in December was due to incomplete data (only up to December 9), requiring cautious interpretation.
   
