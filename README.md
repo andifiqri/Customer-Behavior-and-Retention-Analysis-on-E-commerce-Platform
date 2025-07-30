@@ -19,7 +19,9 @@ Given the seasonal nature of the products offered, this analysis focuses particu
 ---------------------------------------------------------------------------------------
 * Order volume followed a similar upward trend, starting in September and peaking in November (2,359 orders), likely driven by holiday demand.
 * The steep drop in December was due to incomplete data (only up to December 9), requiring cautious interpretation.
----------------------------------------------------------------------------------------
+  
+<img width="1599" height="140" alt="Image" src="https://github.com/user-attachments/assets/2b03a2f8-a447-4c0f-a24d-dbd9f98acf39" />
+
 **Key Highlights (Sep-Nov):**
 * November marked the strongest overall performance, showing growth across all metrics: revenue (+20%), units sold (+21%), and order volume (+20%).
 * The high-season momentum starting in September and peaking in November presents a strong opportunity for maximizing annual revenue.
