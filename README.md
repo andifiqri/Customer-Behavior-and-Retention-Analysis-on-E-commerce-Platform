@@ -5,9 +5,32 @@ This project aims to analyze customer behavior using the UK E-Commerce Dataset, 
 
 Given the seasonal nature of the products offered, this analysis focuses particularly on the peak sales period from September to November 2011. The main goal of the analysis is to identify customer purchasing patterns, segment customers based on their purchasing characteristics, and provide insights that can help enhance customer retention strategies and improve the effectiveness of future marketing campaigns.
 ## Executive Summary
-This project aims to analyze customer behavior using the UK E-Commerce Dataset, which consists of transaction records from a retail company based in the United Kingdom. The dataset includes all online purchase transactions between December 1st, 2010 and December 9th, 2011.
+### Sales Performance
+* Revenue was stable from Jan–Aug 2011 (~£215K/month).
+* Significant growth in Sep 2011 (+52.3%), peaking in Nov (£517K, 2,359 orders).
+* Drop in Dec is due to partial data (up to Dec 9).
+* Sales trends reflect seasonal demand ahead of holidays.
+### Customer Composition & Behavior
+* **Existing Customers:**
+    * 70% of monthly transactions (Sep–Nov).
+    * Accounted for 81% of revenue.
+    * AOV: £233.29 from 5,132 orders.
+* **New Customers:**
+    * Accounted for 19% of revenue.
+    * Higher AOV (£243.08), but fewer orders.
+### Customer Segmentation
+* 71.4% of customers fall into Top & Potential segments.
+  * **Top Customers:**
+    * Accounted for 70% of revenue.
+    * Highest AOV: £249.28.
+  * **At Risk:**
+    * AOV: £162.58, likely driven by wholesale/seasonal buyers.
+### Customer Retention
+* Sep 2011 cohort shows strongest retention:
+  * 37% returned in month 2, 52% in month 3.
+* Oct cohort: 31% retention in month 2.
+* Confirms increased activity before Christmas.
 
-Given the seasonal nature of the products offered, this analysis focuses particularly on the peak sales period from September to November 2011. The main goal of the analysis is to identify customer purchasing patterns, segment customers based on their purchasing characteristics, and provide insights that can help enhance customer retention strategies and improve the effectiveness of future marketing campaigns.
 ## Insight Deep-Dive
 ### Sales Trends and Growth Overview
 <img width="1500" height="600" alt="Image" src="https://github.com/user-attachments/assets/1c2ef8c9-3682-401a-85da-a7b2df2c6724" />
