@@ -1,4 +1,4 @@
-# Customer-Behavior-and-Retention-Analysis-on-E-commerce-Platform
+# Customer-Behavior-and-Retention-Analysis-on-E-Commerce-Platform
 
 ## Project Background
 This project aims to analyze customer behavior using the UK E-Commerce Dataset, which consists of transaction records from a retail company based in the United Kingdom. The dataset includes all online purchase transactions between December 1st, 2010 and December 9th, 2011.
